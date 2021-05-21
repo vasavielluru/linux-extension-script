@@ -1,4 +1,4 @@
 {
-  "fileUris": ["https://raw.githubusercontent.com/alashro/sampleweb/master/install_web.sh"],
+  "fileUris": ["https://raw.githubusercontent.com/vasavielluru/linux-extension-script/main/install_web.sh"],
   "commandToExecute": "./install_web.sh"
 }
